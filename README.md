@@ -37,6 +37,8 @@ The software consists of two separate systems:
 * Utility modules for audio processing of meeting recordings.
 * Utility scripts to preprocess existing written transcripts. 
 
+For more design information, see the [WIKI.](https://github.com/govmeeting/govmeeting/wiki/Overall-Design)
+
 ## Goals
 
 We can attend government meetings or watch them on TV. But how many times have we ever done this? How many people in a town of 50,000 people do this? Maybe 500. Democracy can’t work well if only one percent are fully informed.
