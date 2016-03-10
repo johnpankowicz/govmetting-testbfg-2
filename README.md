@@ -37,7 +37,7 @@ The software consists of two separate systems:
 * Utility modules for audio processing of meeting recordings.
 * Utility scripts to preprocess existing written transcripts. 
 
-For more design information, see the [WIKI.](https://github.com/govmeeting/govmeeting/wiki/Overall-Design)
+For more design information, see the [WIKI Design Documentation.](https://github.com/govmeeting/govmeeting/wiki/Overall-Design)
 
 ## Goals
 
