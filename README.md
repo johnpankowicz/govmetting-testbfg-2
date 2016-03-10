@@ -5,13 +5,19 @@ Software to inform us of issues discussed at local government meetings
 
 Shortly after a meeting, you can:
 * Go online and see what issues were discussed and exactly what was said and by whom.
-* Receive, on your phone or via email, a summary of issues that were discussed. 
+* Receive, on your phone or via email, a summary of issues discussed. 
 * Receive a phone alert or email whenever a specific issue is discussed. You would sign up prior for alerts.
 
 At any time, you can go online and see:
-* See all issues that were discussed in past meetings.
+* See all issues discussed in past meetings.
 * See all that was said in the past on any specific issue.
 * See exactly what any specific official said on any specific issue. This is especially helpful at election time.
+
+![Mr. T](http://govmeeting.org/attachments/download/4/mr-t-mrt-36834265-320-254-24kb.png)
+“Enough with the jibber-jabber, fool!
+Show me how it works!”
+
+Well, the code isn’t written yet. But here is a [SMALL DEMO](http://demo.govmeeting.org) of one possible feature.  It show what was discussed at a past meeting of the Boothbay Harbor Selectmen in Maine, USA. The final version will have many more features.
 
 ## Design
 
