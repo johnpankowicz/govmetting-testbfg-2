@@ -3,7 +3,7 @@ Software to inform us of issues discussed at local government meetings
 
 ## Features
 
-Shortly after a meeting, you can:
+Shortly after a government meeting takes place, you will be able to:
 * Go online and see what issues were discussed and exactly what was said and by whom.
 * Receive, on your phone or via email, a summary of issues discussed. 
 * Receive a phone alert or email whenever a specific issue is discussed. You would sign up prior for alerts.
